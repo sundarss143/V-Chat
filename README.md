@@ -134,9 +134,9 @@ Open `http://localhost:5173` in your web browser.
 
 ## Author
 
-Venkatesh Ponnuru \
-Email: venkateshponnuru6@gmail.com \
-LinkedIn : https://www.linkedin.com/in/venkatesh-ponnuru-797913279/
+Sundarraja ponnuru \
+Email: sundarrajaponnuru@gmail.com \
+
 
 
 
